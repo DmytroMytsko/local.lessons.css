@@ -1,0 +1,17 @@
+body {
+    font-size: 0;
+    text-align: center;
+}
+.container {
+    height:100%;
+    width:800px;
+    margin: auto;
+    border: 1px solid black;
+}
+.container div {
+    height: 200px;
+    width: 200px;
+    background: green;
+    border: 1px solid red;
+    display: inline-block;
+}
